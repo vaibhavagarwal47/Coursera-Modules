@@ -1,0 +1,24 @@
+.menu{
+    margin:30px;
+}
+.chicken,.beef,.sushi{
+    margin: 20px;
+    padding: 15px;
+}
+.chicken{
+    background-color: seashell;
+}
+.sushi{
+    background-color: honeydew;
+}
+.beef{
+    background-color: ivory;
+    margin-bottom: 50px;
+}
+.navbar{
+    background-color: tan;
+    border-bottom: 2px solid black;
+}
+.navbar-nav > a:hover{
+    border-bottom: 1px solid black;
+}
